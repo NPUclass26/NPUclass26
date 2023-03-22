@@ -18,19 +18,19 @@ social:
   facebook: /
   linkedin:
   instagram: /
-  github: haojen
+  github: NPUClass26
 
 user:
-  name: Haojen
+  name: NPUClass26
   avatar:
-  location: In the dust
-  description: May the Force be with you
+  location: 
+  description: 
   footnotes: # footnotes
 
 # documents: https://github.com/utterance/utterances
 # API config: https://utteranc.es/
 comment_utteranc:
-  enable: true
+  enable: false
   repo: Haojen/Claudia-theme-blog # your blog repo
 
 
@@ -71,7 +71,7 @@ ga_domain:
 ba_track_id:
 
 # picture of about page
-about_pic: about.png
+about_pic: arcaea.jpg
 
 image_zoom:
   enable: true

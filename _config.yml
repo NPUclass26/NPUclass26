@@ -13,7 +13,6 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-#url: https://haojen.github.io/Claudia-theme-blog/
 url: https://npuclass26.github.io
 root: /
 permalink: :year/:month/:day/:title/
