@@ -1040,13 +1040,6 @@ struct record*alter(struct record*head)
 ![学习笔记](/张菁/张菁(21).jpg)
 
 ### 周璟轩
-<iframe 
-src="source/周璟轩/斗地主雏形(周璟轩).mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="source/周璟轩/斗地主雏形(周璟轩).mp4" type="video/mp4">
+</videos>
