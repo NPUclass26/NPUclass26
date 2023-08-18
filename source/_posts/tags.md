@@ -999,8 +999,9 @@ struct record*alter(struct record*head)
 
 ### 闫佳乐
 <video id="video" controls="" preload="none" poster="作者(图片地址)">
-    <source id="mp4" src="./闫佳乐/歼20大战赛博顶针" type="video/mp4">
+    <source id="mp4" src="./闫佳乐/歼20大战赛博顶针.mp4" type="video/mp4">
 </video>
+<video controls height='100%' width='100%' src="./闫佳乐/歼20大战赛博顶针.mp4"></video>
 
 
 ### 杨帅
