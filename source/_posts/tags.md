@@ -12,7 +12,7 @@ tags:
 
 ### 杜浩南
 <details>
-<summary>杜浩男的代码，点开阅读</summary>
+<summary>杜浩南的代码，点开阅读</summary>
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -998,9 +998,12 @@ struct record*alter(struct record*head)
 ![学习笔记](source/向城志/向城志_8_.jpg)
 
 ### 闫佳乐
-<video id="video" controls="" preload="none" poster="作者(图片地址)">
-    <source id="mp4" src="./闫佳乐/歼20大战赛博顶针.mp4" type="video/mp4">
-</video>
+![学习笔记](/闫佳乐/闫佳乐1.jpg)
+![学习笔记](/闫佳乐/闫佳乐2.jpg)
+![学习笔记](/闫佳乐/闫佳乐3.jpg)
+![学习笔记](/闫佳乐/闫佳乐4.jpg)
+![学习笔记](/闫佳乐/闫佳乐5.jpg)
+![学习笔记](/闫佳乐/微信小程序.jpg)
 
 ### 杨帅
 ![学习笔记](/杨帅/杨帅(1).jpg)
