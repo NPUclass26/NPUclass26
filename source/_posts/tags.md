@@ -595,8 +595,8 @@ int main()
 ![学习笔记](/宋向南/宋向南(3).jpg)
 
 ### 田丰淇
-![学习笔记](./田丰淇/田丰淇.jpg)
-![学习笔记](./田丰淇/田丰淇(2).jpg)
+![学习笔记](/田丰淇/田丰淇.jpg)
+![学习笔记](/田丰淇/田丰淇(2).jpg)
 
 ### 王博
 <details>
@@ -1001,6 +1001,7 @@ struct record*alter(struct record*head)
 <video id="video" controls="" preload="none" poster="作者(图片地址)">
 <source id="mp4" src="./闫佳乐/歼20大战赛伯顶针(闫佳乐).mp4" type="video/mp4">
 </video>
+
 
 ### 杨帅
 ![学习笔记](/杨帅/杨帅.jpg)
