@@ -567,7 +567,7 @@ int main()
 
 ### 贾新璐
 ![学习笔记](/贾新璐/贾新璐.jpg)
-![学习笔记](source/贾新璐/贾新璐(2).jpg)
+![学习笔记](/贾新璐/贾新璐(2).jpg)
 
 ### 李昊轩
 ![学习笔记](/李昊轩/李昊轩.jpg)
@@ -999,12 +999,12 @@ struct record*alter(struct record*head)
 
 ### 闫佳乐
 <video id="video" controls="" preload="none" poster="作者(图片地址)">
-<source id="mp4" src="./闫佳乐/歼20大战赛伯顶针(闫佳乐).mp4" type="video/mp4">
+    <source id="mp4" src="./闫佳乐/歼20大战赛博顶针" type="video/mp4">
 </video>
 
 
 ### 杨帅
-![学习笔记](/杨帅/杨帅.jpg)
+![学习笔记](/杨帅/杨帅(1).jpg)
 ![学习笔记](/杨帅/杨帅(2).jpg)
 ![学习笔记](/杨帅/杨帅(3).jpg)
 ![学习笔记](/杨帅/杨帅(4).jpg)
