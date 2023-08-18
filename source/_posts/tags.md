@@ -1038,6 +1038,9 @@ struct record*alter(struct record*head)
 ![学习笔记](/张菁/张菁(21).jpg)
 
 ### 周璟轩
-<video id="video" controls="" preload="none" poster="source/images/arcaea.jpg">
-    <source id="mp4" src="source/周璟轩/斗地主雏形.mp4" type="video/mp4">
-</video>
+#### 斗地主雏形
+![学习笔记](/周璟轩/周璟轩1.jpg)
+![学习笔记](/周璟轩/周璟轩2.jpg)
+![学习笔记](/周璟轩/周璟轩3.jpg)
+![学习笔记](/周璟轩/周璟轩4.jpg)
+![学习笔记](/周璟轩/周璟轩5.jpg)
