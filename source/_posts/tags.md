@@ -563,7 +563,7 @@ int main()
 </details>
 
 ### 高博栋
-
+![寒假计划表](.//to/image.pdf){width=75%}
 ### 刘博
 ![学习笔记](/刘博/刘博.jpg)
 
